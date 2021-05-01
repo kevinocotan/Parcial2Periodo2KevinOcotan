@@ -1,0 +1,12 @@
+C:\Users\MSI\source\repos\Parcial2Kevin\Parcial2Kevin\bin\Debug\Parcial2Kevin.exe.config
+C:\Users\MSI\source\repos\Parcial2Kevin\Parcial2Kevin\bin\Debug\Parcial2Kevin.exe
+C:\Users\MSI\source\repos\Parcial2Kevin\Parcial2Kevin\bin\Debug\Parcial2Kevin.pdb
+C:\Users\MSI\source\repos\Parcial2Kevin\Parcial2Kevin\bin\Debug\Parcial2Kevin.xml
+C:\Users\MSI\source\repos\Parcial2Kevin\Parcial2Kevin\obj\Debug\Parcial2Kevin.vbprojAssemblyReference.cache
+C:\Users\MSI\source\repos\Parcial2Kevin\Parcial2Kevin\obj\Debug\Parcial2Kevin.Resources.resources
+C:\Users\MSI\source\repos\Parcial2Kevin\Parcial2Kevin\obj\Debug\Parcial2Kevin.vbproj.GenerateResource.cache
+C:\Users\MSI\source\repos\Parcial2Kevin\Parcial2Kevin\obj\Debug\Parcial2Kevin.vbproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\Parcial2Kevin\Parcial2Kevin\obj\Debug\Parcial2Kevin.exe
+C:\Users\MSI\source\repos\Parcial2Kevin\Parcial2Kevin\obj\Debug\Parcial2Kevin.xml
+C:\Users\MSI\source\repos\Parcial2Kevin\Parcial2Kevin\obj\Debug\Parcial2Kevin.pdb
+C:\Users\MSI\source\repos\Parcial2Kevin\Parcial2Kevin\obj\Debug\Parcial2Kevin.Productos.resources
